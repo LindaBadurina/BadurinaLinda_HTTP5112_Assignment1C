@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadurinaLinda_HTTP5112_Assignment1C", "BadurinaLinda_HTTP5112_Assignment1C\BadurinaLinda_HTTP5112_Assignment1C.csproj", "{98E45E3B-8939-482F-B46B-4C125BB9516B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98E45E3B-8939-482F-B46B-4C125BB9516B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98E45E3B-8939-482F-B46B-4C125BB9516B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98E45E3B-8939-482F-B46B-4C125BB9516B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98E45E3B-8939-482F-B46B-4C125BB9516B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26A30F1C-30EC-4CB0-917F-0D201F2B50E2}
+	EndGlobalSection
+EndGlobal
